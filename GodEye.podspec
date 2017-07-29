@@ -53,7 +53,7 @@ Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and et
 
     s.dependency 'FileBrowser', '~> 0.2.0'
     s.dependency 'SwViewCapture', '~> 1.0.6'
-    s.dependency 'SQLite.swift', '~> 0.11.1'
+    s.dependency 'SQLite.swift', '~> 0.11.3'
     #s.dependency 'MJRefresh', '~> 3.1.12'
     s.dependency 'ESPullToRefresh', '~> 2.6'
 end
